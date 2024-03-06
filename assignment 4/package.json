@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "name": "assignment-4",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/node": "^20.11.20"},
+    "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
