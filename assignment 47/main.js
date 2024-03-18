@@ -1,0 +1,10 @@
+//Question 47: Advanced Array Destructing: Given an array of objests representing different laptops, each with properties make, model, and year, use array destructuringto assign the first ans second laptops to variables.Then, log these variables.
+let laptops = [
+    { make: "Dell", model: "XPS 15", year: 2021 },
+    { make: "Apple", model: "MacBook Pro", year: 2020 },
+    { make: "HP", model: "Spectre x360", year: 2021 }
+];
+let [laptop1, laptop2] = laptops;
+console.log(laptop1);
+console.log(laptop2);
+export {};
